@@ -25,6 +25,9 @@ Projects:-
 6. NBA 4-pointer Line & Simulation
 7. Customer Segmentation Engine
 8. Data Science Profession Survey, Kaggle Competition (Link- https://www.kaggle.com/c/kaggle-survey-2020/data)
-9. 
+9. Data Science Salary
+10. EDA on Finance Data
+11. Gender differences in Data Science (Link- https://www.kaggle.com/c/kaggle-survey-2020/data)
+12. Global Cost of Living
 
 **Kindly use Google collab or any other high end editor to execute the OpenCV python commands**
