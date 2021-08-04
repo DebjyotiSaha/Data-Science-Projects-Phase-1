@@ -23,5 +23,8 @@ Projects:-
 4. Vehicle detection using Deep Learning
 5. NBA 3-pointer & 4-pointer Line
 6. NBA 4-pointer Line & Simulation
+7. Customer Segmentation Engine
+8. Data Science Profession Survey, Kaggle Competition (Link- https://www.kaggle.com/c/kaggle-survey-2020/data)
+9. 
 
 **Kindly use Google collab or any other high end editor to execute the OpenCV python commands**
