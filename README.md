@@ -29,5 +29,7 @@ Projects:-
 10. EDA on Finance Data
 11. Gender differences in Data Science (Link- https://www.kaggle.com/c/kaggle-survey-2020/data)
 12. Global Cost of Living
+13. Movie Recommender System
+14. Player Performance Index
 
 **Kindly use Google collab or any other high end editor to execute the OpenCV python commands**
