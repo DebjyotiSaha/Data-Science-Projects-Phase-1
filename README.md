@@ -5,19 +5,21 @@ This repository contains a collection of Data Science projects that explore vari
 ## Table of Contents
 
 - [Time Series Analysis]
-- [Predicting Fare Price](#predicting-fare-price)
-- [Password Strength using NLP](#password-strength-using-nlp)
-- [Vehicle Detection using Deep Learning](#vehicle-detection-using-deep-learning)
-- [NBA 3-pointer & 4-pointer Line](#nba-3-pointer-4-pointer-line)
-- [NBA 4-pointer Line & Simulation](#nba-4-pointer-line-simulation)
-- [Customer Segmentation Engine](#customer-segmentation-engine)
-- [Data Science Profession Survey](#data-science-profession-survey)
-- [Data Science Salary Analysis](#data-science-salary-analysis)
-- [EDA on Finance Data](#eda-on-finance-data)
-- [Gender Differences in Data Science](#gender-differences-in-data-science)
-- [Global Cost of Living](#global-cost-of-living)
-- [Movie Recommender System](#movie-recommender-system)
-- [Player Performance Index](#player-performance-index)
+- [Predicting Fare Price]
+- [Password Strength using NLP]
+- [Vehicle Detection using Deep Learning]
+- [NBA 3-pointer & 4-pointer Line]
+- [NBA 4-pointer Line & Simulation]
+- [Customer Segmentation Engine]
+- [Data Science Profession Survey] (Link- https://www.kaggle.com/c/kaggle-survey-2020/data)
+- [Data Science Salary Analysis]
+- [EDA on Finance Data]
+- [Gender Differences in Data Science] (Link- https://www.kaggle.com/c/kaggle-survey-2020/data)
+- [Global Cost of Living]
+- [Movie Recommender System]
+- [Player Performance Index]
+
+Link:- https://drive.google.com/file/d/1P0yiO5KlnU8dGgB_L68KB_hjIvUec55f/view
 
 ## Project Overview
 
@@ -72,43 +74,3 @@ Feel free to contribute to the repository by submitting pull requests. If you ha
 ## License
 
 This project is open-source and available under the MIT License.
-
----
-
-This format provides a clean and clear overview of your projects, instructions for usage, and encourages contributions. Each project listed can have its individual README for specific instructions and details.
-
-# Data-Science-Projects
-
-The following repository consists of Web based application using python libraries.
-
-Before accessing the files, make sure that you have these libraries in your system.
-1. Numpy
-2. Pandas
-3. Streamlit
-4. Cufflinks
-5. sklearn
-6. Seaborn
-7. Matplotlib
-8. Matplotlib.pyplot
-
-The current repository consist of 12 projects.
-
-Link:- https://drive.google.com/file/d/1P0yiO5KlnU8dGgB_L68KB_hjIvUec55f/view
-
-Projects:-
-1. Time Series Analysis
-2. Predicting Fare Price
-3. Password Strength using NLP
-4. Vehicle detection using Deep Learning
-5. NBA 3-pointer & 4-pointer Line
-6. NBA 4-pointer Line & Simulation
-7. Customer Segmentation Engine
-8. Data Science Profession Survey, Kaggle Competition (Link- https://www.kaggle.com/c/kaggle-survey-2020/data)
-9. Data Science Salary
-10. EDA on Finance Data
-11. Gender differences in Data Science (Link- https://www.kaggle.com/c/kaggle-survey-2020/data)
-12. Global Cost of Living
-13. Movie Recommender System
-14. Player Performance Index
-
-**Kindly use Google collab or any other high end editor to execute the OpenCV python commands**
